@@ -1,7 +1,7 @@
 # How to Create a Flutter Slider in 10 Minutes
 A quick-start example to help you add the Syncfusion Flutter Sliders package to a Flutter app. You will learn how to add a Slider widget to a Flutter project, how to set value limits; show data labels; intervals; ticks; enable tooltips; and format the slider values. You will also learn how to set date time values to the slider and show how to render a vertical slider.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/slider
 
 Documentation: https://help.syncfusion.com/flutter/slider/overview
 
